@@ -4,6 +4,10 @@
 
 ## Kubernetes
 
+### GraphQL
+
+- [ ] [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot)
+
 ### [KubeAcademy](https://kube.academy)
 
 - [Introduction to Building Cloud Native Applications](https://kube.academy/paths/introduction-to-building-cloud-native-applications)
